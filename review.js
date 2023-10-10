@@ -13,11 +13,11 @@
 
 // CODE ALONG, PART 2
 // 5. Let's use the console to check our variables saved correctly. 
-//  - Watch as I use console.log() to check the contents of our first variable.
+//  - Watch as I use console.log() to check the contents of our option-one variables.
 
 
-// CODE SOLO, PART 1
-// 6. Now use console.log() to check the contents of the two variables you created. 
+// CODE SOLO, PART 2
+// 6. Now use console.log() to check the contents of the option-two variables you created. 
 //  - Did they save correctly? If not, fix them!
 
 
