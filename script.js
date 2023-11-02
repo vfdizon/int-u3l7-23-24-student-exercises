@@ -1,4 +1,4 @@
-// 1. Declare a variable called name. 
+// 1. Declare a variable called myName. 
 //  - Give it the value of your name. 
 //  - This is a string so the value should be in quotes ""
 
